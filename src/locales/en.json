@@ -63,5 +63,36 @@
             "description": "I used it during the first year of the course to manage databases and perform efficient queries.",
             "level": "3"
         }
-    ]    
+    ],
+
+    "work": {
+        "title": "Projects"
+    },
+    
+    "project-cards": [
+        {
+            "title": "Lumino",
+            "tag": "Educational platform designed for students and teachers.",
+            "description": "This project uses Django to generate HTML, manage users from the backend, and send emails, with decoupled tasks to improve performance.",
+            "url": "https://github.com/Chugani05-JesusLugo2002/Lumino"
+        },
+        {
+            "title": "Jukabox",
+            "tag": "Social media for music lovers.",
+            "description": "This project is a full-stack app using Vue.js for the front-end and Django for the back-end, integrated with the MusicBrainz API to fetch and display music data like artists, albums, and tracks.",
+            "url": "https://github.com/Chugani05-JesusLugo2002/Jukabox"
+        },
+        {
+            "title": "ShoppingCart",
+            "tag": "Online book shop.",
+            "description": "This project uses Google Firebase for database management and user authentication, with a front-end developed in Vue.js and TypeScript.",
+            "url": "https://github.com/Chugani05/ShoppingCart"
+        },
+        {
+            "title": "GameSide",
+            "tag": "Videogame API.",
+            "description": "This project involves creating a custom API without using Rest Framework, implementing custom serializers to handle requests and responses.",
+            "url": "https://github.com/Chugani05-JesusLugo2002/GameSide"
+        }
+    ]
 }

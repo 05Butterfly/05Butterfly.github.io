@@ -15,53 +15,84 @@
     },
 
     "skill-cards": [
-      {
-          "logo": "/src/assets/imgs/python.png",
-          "name": "Python",
-          "description": "Używam go od początku kursu tworzenia aplikacji internetowych. Jest kluczowy dla logiki programowania i programowania backendu.",
-          "level": "3"
-      },
-      {
-          "logo": "/src/assets/imgs/bootstrap.png",
-          "name": "Bootstrap",
-          "description": "Niedawno zaczęliśmy go używać, aby usprawnić projektowanie stron internetowych w nowoczesny i responsywny sposób.",
-          "level": "3"
-      },
-      {
-          "logo": "/src/assets/imgs/html.png",
-          "name": "HTML",
-          "description": "Od początku kursu używam go do efektywnego strukturyzowania i tworzenia stron internetowych.",
-          "level": "4"
-      },
-      {
-          "logo": "/src/assets/imgs/django.png",
-          "name": "Django",
-          "description": "Chociaż zacząłem go używać niedawno, stworzyłam już kilka dynamicznych aplikacji internetowych z tym frameworkiem.",
-          "level": "4"
-      },
-      {
-          "logo": "/src/assets/imgs/vue.png",
-          "name": "Vue",
-          "description": "Uczę się tego progresywnego frameworka do budowy interaktywnych i skalowalnych aplikacji internetowych.",
-          "level": "3"
-      },
-      {
-          "logo": "/src/assets/imgs/javascript.png",
-          "name": "JavaScript",
-          "description": "Wciąż poznaję jego możliwości, ale już używałem go do dodawania interaktywności na stronach internetowych.",
-          "level": "2"
-      },
-      {
-          "logo": "/src/assets/imgs/css.png",
-          "name": "CSS",
-          "description": "Od początku kursu używam go do projektowania i dostosowywania wyglądu stron internetowych.",
-          "level": "3"
-      },
-      {
-          "logo": "/src/assets/imgs/sql.png",
-          "name": "SQL",
-          "description": "Używałem go w pierwszym roku kursu do zarządzania bazami danych i wykonywania efektywnych zapytań.",
-          "level": "3"
-      }
-  ]  
+        {
+            "logo": "/src/assets/imgs/python.png",
+            "name": "Python",
+            "description": "Używam go od początku kursu tworzenia aplikacji internetowych. Jest kluczowy dla logiki programowania i programowania backendu.",
+            "level": "3"
+        },
+        {
+            "logo": "/src/assets/imgs/bootstrap.png",
+            "name": "Bootstrap",
+            "description": "Niedawno zaczęliśmy go używać, aby usprawnić projektowanie stron internetowych w nowoczesny i responsywny sposób.",
+            "level": "3"
+        },
+        {
+            "logo": "/src/assets/imgs/html.png",
+            "name": "HTML",
+            "description": "Od początku kursu używam go do efektywnego strukturyzowania i tworzenia stron internetowych.",
+            "level": "4"
+        },
+        {
+            "logo": "/src/assets/imgs/django.png",
+            "name": "Django",
+            "description": "Chociaż zacząłem go używać niedawno, stworzyłam już kilka dynamicznych aplikacji internetowych z tym frameworkiem.",
+            "level": "4"
+        },
+        {
+            "logo": "/src/assets/imgs/vue.png",
+            "name": "Vue",
+            "description": "Uczę się tego progresywnego frameworka do budowy interaktywnych i skalowalnych aplikacji internetowych.",
+            "level": "3"
+        },
+        {
+            "logo": "/src/assets/imgs/javascript.png",
+            "name": "JavaScript",
+            "description": "Wciąż poznaję jego możliwości, ale już używałem go do dodawania interaktywności na stronach internetowych.",
+            "level": "2"
+        },
+        {
+            "logo": "/src/assets/imgs/css.png",
+            "name": "CSS",
+            "description": "Od początku kursu używam go do projektowania i dostosowywania wyglądu stron internetowych.",
+            "level": "3"
+        },
+        {
+            "logo": "/src/assets/imgs/sql.png",
+            "name": "SQL",
+            "description": "Używałem go w pierwszym roku kursu do zarządzania bazami danych i wykonywania efektywnych zapytań.",
+            "level": "3"
+        }
+    ],
+
+    "work": {
+      "title": "Proyectos"
+    },
+
+    "project-cards": [
+        {
+            "title": "Lumino",
+            "tag": "Platforma edukacyjna zaprojektowana dla studentów i nauczycieli",
+            "description": "Ten projekt wykorzystuje Django do generowania HTML, zarządzania użytkownikami z poziomu back-endu i wysyłania wiadomości e-mail, z oddzielonymi zadaniami w celu poprawy wydajności.",
+            "url": "https://github.com/Chugani05-JesusLugo2002/Lumino"
+        },
+        {
+            "title": "Jukabox",
+            "tag": "Sieć społecznościowa dla miłośników muzyki.",
+            "description": "Ten projekt to kompletna aplikacja wykorzystująca Vue.js na front-endzie i Django na back-endzie, zintegrowana z API MusicBrainz do pobierania i wyświetlania danych muzycznych, takich jak artyści, albumy i utwory.",
+            "url": "https://github.com/Chugani05-JesusLugo2002/Jukabox"
+        },
+        {
+            "title": "ShoppingCart",
+            "tag": "Sklep internetowy z książkami.",
+            "description": "Ten projekt wykorzystuje Google Firebase do zarządzania bazą danych i uwierzytelniania użytkowników, z front-endem stworzonym w Vue.js i TypeScript.",
+            "url": "https://github.com/Chugani05/ShoppingCart"
+        },
+        {
+            "title": "GameSide",
+            "tag": "API do gier wideo.",
+            "description": "Ten projekt polega na stworzeniu niestandardowego API bez użycia Rest Framework, implementując własne serializatory do obsługi żądań i odpowiedzi.",
+            "url": "https://github.com/Chugani05-JesusLugo2002/GameSide"
+        }        
+    ]
 }

@@ -5,7 +5,7 @@
 <template>
     <div class="card m-3">
         <div class="card-body">
-            <h5 class="card-title"><span><img :src="logo" alt="logo" width="50"></span>  {{ name }}</h5>
+            <h4 class="card-title fw-bold"><span><img :src="logo" alt="logo" width="50"></span>  {{ name }}</h4>
             <p class="card-text">{{ description }}</p>
             <i v-for="n in parseInt(level)" class="bi bi-star-fill"></i>
         </div>
