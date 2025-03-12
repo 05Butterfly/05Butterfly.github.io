@@ -1,0 +1,67 @@
+{
+    "header": {
+      "english": "English",
+      "polish": "Polish",
+      "spanish": "Spanish",
+      "title": "Hi!! I'm Rashi Chugani."
+    },
+
+    "footer": {
+        "copyright": " All rights reserved."
+    },
+
+    "skill": {
+        "title": "Skills"
+    },
+
+    "skill-cards": [
+        {
+            "logo": "/src/assets/imgs/python.png",
+            "name": "Python",
+            "description": "I have been using it since the beginning of the web application development course. It is essential for programming logic and backend development.",
+            "level": "3"
+        },
+        {
+            "logo": "/src/assets/imgs/bootstrap.png",
+            "name": "Bootstrap",
+            "description": "We recently started using it to streamline web design with a modern and responsive approach.",
+            "level": "3"
+        },
+        {
+            "logo": "/src/assets/imgs/html.png",
+            "name": "HTML",
+            "description": "I have been using it since the start of the course to efficiently structure and develop web pages.",
+            "level": "4"
+        },
+        {
+            "logo": "/src/assets/imgs/django.png",
+            "name": "Django",
+            "description": "Although I started using it recently, I have already developed several dynamic web applications with this framework.",
+            "level": "4"
+        },
+        {
+            "logo": "/src/assets/imgs/vue.png",
+            "name": "Vue",
+            "description": "I am learning this progressive framework for building interactive and scalable web applications.",
+            "level": "3"
+        },
+        {
+            "logo": "/src/assets/imgs/javascript.png",
+            "name": "JavaScript",
+            "description": "I am still exploring its potential, but I have already used it to add interactivity to web pages.",
+            "level": "2"
+        },
+        {
+            "logo": "/src/assets/imgs/css.png",
+            "name": "CSS",
+            "description": "Since the beginning of the course, I have used it to design and customize the appearance of web pages.",
+            "level": "3"
+        },
+        {
+            "logo": "/src/assets/imgs/sql.png",
+            "name": "SQL",
+            "description": "I used it during the first year of the course to manage databases and perform efficient queries.",
+            "level": "3"
+        }
+    ]    
+}

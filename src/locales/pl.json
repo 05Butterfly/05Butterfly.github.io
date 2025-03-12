@@ -1,0 +1,67 @@
+{
+    "header": {
+      "english": "Angielski",
+      "polish": "Polski",
+      "spanish": "Hiszpański",
+      "title": "Cześć!! Jestem Rashi Chugani."
+    },
+
+    "footer": {
+        "copyright": " Wszelkie prawa zastrzeżone."
+    },
+
+    "skill": {
+        "title": "Habilidady"
+    },
+
+    "skill-cards": [
+      {
+          "logo": "/src/assets/imgs/python.png",
+          "name": "Python",
+          "description": "Używam go od początku kursu tworzenia aplikacji internetowych. Jest kluczowy dla logiki programowania i programowania backendu.",
+          "level": "3"
+      },
+      {
+          "logo": "/src/assets/imgs/bootstrap.png",
+          "name": "Bootstrap",
+          "description": "Niedawno zaczęliśmy go używać, aby usprawnić projektowanie stron internetowych w nowoczesny i responsywny sposób.",
+          "level": "3"
+      },
+      {
+          "logo": "/src/assets/imgs/html.png",
+          "name": "HTML",
+          "description": "Od początku kursu używam go do efektywnego strukturyzowania i tworzenia stron internetowych.",
+          "level": "4"
+      },
+      {
+          "logo": "/src/assets/imgs/django.png",
+          "name": "Django",
+          "description": "Chociaż zacząłem go używać niedawno, stworzyłam już kilka dynamicznych aplikacji internetowych z tym frameworkiem.",
+          "level": "4"
+      },
+      {
+          "logo": "/src/assets/imgs/vue.png",
+          "name": "Vue",
+          "description": "Uczę się tego progresywnego frameworka do budowy interaktywnych i skalowalnych aplikacji internetowych.",
+          "level": "3"
+      },
+      {
+          "logo": "/src/assets/imgs/javascript.png",
+          "name": "JavaScript",
+          "description": "Wciąż poznaję jego możliwości, ale już używałem go do dodawania interaktywności na stronach internetowych.",
+          "level": "2"
+      },
+      {
+          "logo": "/src/assets/imgs/css.png",
+          "name": "CSS",
+          "description": "Od początku kursu używam go do projektowania i dostosowywania wyglądu stron internetowych.",
+          "level": "3"
+      },
+      {
+          "logo": "/src/assets/imgs/sql.png",
+          "name": "SQL",
+          "description": "Używałem go w pierwszym roku kursu do zarządzania bazami danych i wykonywania efektywnych zapytań.",
+          "level": "3"
+      }
+  ]  
+}
