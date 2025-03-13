@@ -69,6 +69,10 @@
         "title": "Proyectos"
     },
 
+    "project-cards-button": {
+        "text": "Ver código fuente"
+    },
+
     "project-cards": [
         {
             "title": "Lumino",

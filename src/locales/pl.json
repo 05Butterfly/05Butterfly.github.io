@@ -14,6 +14,10 @@
         "title": "Habilidady"
     },
 
+    "project-cards-button": {
+        "text": "Zobacz źródło"
+    },
+
     "skill-cards": [
         {
             "logo": "/src/assets/imgs/python.png",

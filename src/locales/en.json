@@ -68,6 +68,10 @@
     "work": {
         "title": "Projects"
     },
+
+    "project-cards-button": {
+        "text": "View Source"
+    },
     
     "project-cards": [
         {
