@@ -101,8 +101,9 @@
     ],
 
     "about": {
-        "tag": "Desarrolladora web y estudiante",
-        "p1": "Hola!! Me llamo Rashi Chugani Narwani y soy una apasionada desarrolladra web que actualmente está estudiando. Disfruto crear sitios web y aplicaciones intuitivas y visualmente atractivas, y siempre me esfuerzo por aprender las últimas tecnologías y las mejores prácticas.",
-        "p2": "Cuando no estoy programando, disfruto explorando mi lado creativo leyendo, horneando, construyendo Legos, pintando, dibujando y fotografiando. Ya sea preparando delicias, capturando momentos con mi cámara o dando vida a los diseños con colores o ladrillos, estos pasatiempos me permiten relajarme y expresarme de maneras únicas."
-    }
+        "tag": "Desarrollador Web y Estudiante",
+        "p1": "¡Hola! Mi nombre es Rashi Chugani Narwani. Soy de origen indio y nací y crecí en Tenerife, España.",
+        "p2": "Soy un apasionado del desarrollo web y actualmente estoy estudiando. Me encanta crear sitios web y aplicaciones atractivas y fáciles de usar, siempre con ganas de aprender las últimas tecnologías y mejores prácticas.",
+        "p3": "Más allá de la programación, disfruto expresando mi creatividad a través de la lectura, la repostería, la construcción con LEGO, la pintura, el dibujo y la fotografía. Ya sea diseñando con colores y piezas, capturando momentos con mi cámara o preparando deliciosos postres, estos pasatiempos me permiten relajarme y explorar nuevas formas de expresión."
+    }    
 }

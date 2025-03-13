@@ -101,8 +101,10 @@
     ],
 
     "about": {
-        "tag": "Programista stron internetowych i student",
-        "p1": "Cześć!! Nazywam się Rashi Chugani Narwani i jestem pasjonatem programowania stron internetowych, który obecnie się uczy. Lubię tworzyć przyjazne dla użytkownika, atrakcyjne wizualnie strony internetowe i aplikacje, zawsze starając się poznać najnowsze technologie i najlepsze praktyki.",
-        "p2": "Kiedy nie koduję, lubię odkrywać swoją kreatywną stronę poprzez czytanie, pieczenie, budowanie klocków Lego, malowanie, rysowanie i fotografowanie. Niezależnie od tego, czy chodzi o tworzenie pysznych smakołyków, uchwycenie chwil aparatem, czy ożywienie projektów za pomocą kolorów lub klocków, te hobby pozwalają mi się zrelaksować i wyrazić siebie w wyjątkowy sposób."
+        "tag": "Web Developer i Student",
+        "p1": "Cześć! Nazywam się Rashi Chugani Narwani. Mam indyjskie korzenie, urodziłam się i wychowałam się na Teneryfie w Hiszpanii.",
+        "p2": "Jestem pasjonatką tworzenia stron internetowych i obecnie się uczę. Uwielbiam projektować przyjazne dla użytkownika i estetyczne strony oraz aplikacje, zawsze chętnie poznając najnowsze technologie i najlepsze praktyki.",
+        "p3": "Poza programowaniem lubię wyrażać swoją kreatywność poprzez czytanie, pieczenie, budowanie z klocków LEGO, malowanie, rysowanie i fotografię. Niezależnie od tego, czy projektuję za pomocą kolorów i klocków, uchwytuję chwile aparatem czy tworzę pyszne wypieki, te hobby pozwalają mi się zrelaksować i odkrywać nowe sposoby wyrażania siebie."
     }
+    
 }
