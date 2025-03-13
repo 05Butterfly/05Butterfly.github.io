@@ -98,5 +98,11 @@
             "description": "This project involves creating a custom API without using Rest Framework, implementing custom serializers to handle requests and responses.",
             "url": "https://github.com/Chugani05-JesusLugo2002/GameSide"
         }
-    ]
+    ],
+
+    "about": {
+        "tag": "Web Developer & Student",
+        "p1": "Hello! My name is Rashi Chugani Narwani, and I am a passionate web developer currently studying. I enjoy crafting user-friendly, visually appealing websites and applications, always striving to learn the latest technologies and best practices.",
+        "p2": "When I'm not coding, I enjoy exploring my creative side through reading, baking, building Legos, painting, drawing, and photography. Whether it's crafting delicious treats, capturing moments with my camera, or bringing designs to life with colors or bricks, these hobbies let me relax and express myself in unique ways."
+    }
 }

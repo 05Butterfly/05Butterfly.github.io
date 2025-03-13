@@ -98,5 +98,11 @@
             "description": "Ten projekt polega na stworzeniu niestandardowego API bez użycia Rest Framework, implementując własne serializatory do obsługi żądań i odpowiedzi.",
             "url": "https://github.com/Chugani05-JesusLugo2002/GameSide"
         }        
-    ]
+    ],
+
+    "about": {
+        "tag": "Programista stron internetowych i student",
+        "p1": "Cześć!! Nazywam się Rashi Chugani Narwani i jestem pasjonatem programowania stron internetowych, który obecnie się uczy. Lubię tworzyć przyjazne dla użytkownika, atrakcyjne wizualnie strony internetowe i aplikacje, zawsze starając się poznać najnowsze technologie i najlepsze praktyki.",
+        "p2": "Kiedy nie koduję, lubię odkrywać swoją kreatywną stronę poprzez czytanie, pieczenie, budowanie klocków Lego, malowanie, rysowanie i fotografowanie. Niezależnie od tego, czy chodzi o tworzenie pysznych smakołyków, uchwycenie chwil aparatem, czy ożywienie projektów za pomocą kolorów lub klocków, te hobby pozwalają mi się zrelaksować i wyrazić siebie w wyjątkowy sposób."
+    }
 }
