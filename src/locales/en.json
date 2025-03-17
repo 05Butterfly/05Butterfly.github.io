@@ -3,7 +3,9 @@
       "english": "English",
       "polish": "Polish",
       "spanish": "Spanish",
-      "title": "Hi!! I'm Rashi Chugani."
+      "title": "Hi!! I'm Rashi Chugani.",
+      "home": "Home",
+      "projects": "Projects"
     },
 
     "footer": {
@@ -66,14 +68,14 @@
     ],
 
     "work": {
-        "title": "Projects"
+        "title": "Featured projects"
     },
 
-    "project-cards-button": {
+    "card-button": {
         "text": "View Source"
     },
     
-    "project-cards": [
+    "work-cards": [
         {
             "title": "Lumino",
             "tag": "Educational platform designed for students and teachers.",
@@ -105,5 +107,79 @@
         "p1": "Hello! My name is Rashi Chugani Narwani. I’m of Indian heritage, born and raised in Tenerife, Spain.",
         "p2": "I’m a passionate web developer currently studying. I love creating user-friendly and visually appealing websites and applications, always eager to explore the latest technologies and best practices.",
         "p3": "Beyond coding, I enjoy expressing my creativity through reading, baking, building Legos, painting, drawing, and photography. Whether it’s designing with colors and bricks, capturing moments with my camera, or crafting delicious treats, these hobbies allow me to relax and explore new creative outlets." 
-    }
+    },
+
+    "project-cards": [
+        {
+            "image": "/src/assets/imgs/projects/lumino.png",
+            "title": "Lumino",
+            "tag": "Educational platform designed for students and teachers.",
+            "description": "This project uses Django to generate HTML, manage users from the backend, and send emails, with decoupled tasks to improve performance.",
+            "url": "https://github.com/Chugani05-JesusLugo2002/Lumino"
+        },
+        {
+            "image": "/src/assets/imgs/projects/jukabox.png",
+            "title": "Jukabox",
+            "tag": "Social media for music lovers.",
+            "description": "This project is a full-stack app using Vue.js for the front-end and Django for the back-end, integrated with the MusicBrainz API to fetch and display music data like artists, albums, and tracks.",
+            "url": "https://github.com/Chugani05-JesusLugo2002/Jukabox"
+        },
+        {
+            "image": "/src/assets/imgs/projects/shoppingcart.png",
+            "title": "Shopping Cart",
+            "tag": "Online book shop.",
+            "description": "This project uses Google Firebase for database management and user authentication, with a front-end developed in Vue.js and TypeScript.",
+            "url": "https://github.com/Chugani05/ShoppingCart"
+        },
+        {
+            "image": "/src/assets/imgs/projects/gameside.png",
+            "title": "GameSide",
+            "tag": "Videogame API.",
+            "description": "This project involves creating a custom API without using Rest Framework, implementing custom serializers to handle requests and responses.",
+            "url": "https://github.com/Chugani05-JesusLugo2002/GameSide"
+        },
+        {
+            "image": "/src/assets/imgs/projects/luminodocs.png",
+            "title": "Lumino Docs",
+            "tag": "",
+            "description": "",
+            "url": "https://github.com/Chugani05-JesusLugo2002/LuminoDocs.git"
+        },
+        {
+            "image": "/src/assets/imgs/projects/javaspotify.png",
+            "title": "Java Spotify",
+            "tag": "",
+            "description": "",
+            "url": "https://github.com/Chugani05/JavaSpotify"
+        },
+        {
+            "image": "/src/assets/imgs/projects/toytravel.png",
+            "title": "Toy Travel",
+            "tag": "",
+            "description": "",
+            "url": "https://github.com/mdiogc-JesusLugo2002-Chugani05/ToyTravel"
+        },
+        {
+            "image": "/src/assets/imgs/projects/battleship.png",
+            "title": "Battleship",
+            "tag": "",
+            "description": "",
+            "url": "https://github.com/Chugani05/BattleShip"
+        },
+        {
+            "image": "/src/assets/imgs/projects/supertodo.png",
+            "title": "SuperTodo",
+            "tag": "",
+            "description": "",
+            "url": "https://github.com/Chugani05/SuperTodo"
+        },
+        {
+            "image": "/src/assets/imgs/projects/fastcheese.png",
+            "title": "Fast & Cheese",
+            "tag": "",
+            "description": "",
+            "url": "https://github.com/Chugani05/Fast-Cheesy"
+        }
+        
+    ]
 }

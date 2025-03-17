@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import { RouterLink } from 'vue-router'
 import { useI18n } from 'vue-i18n';
 
 const { locale } = useI18n();
@@ -9,6 +10,13 @@ const changeLanguage = (lang: string) => {
 
 <template>
     <header class="d-flex justify-content-between align-items-center bg-dark text-white p-3">
+
+        <div class="d-flex">
+            <RouterLink class="btn btn-primary" to="/home">{{ $t('header.home') }}</RouterLink>
+            <RouterLink class="btn btn-outline-primary mx-2" to="/projects">{{$t('header.projects')}}</RouterLink>
+        </div>
+
+
         <h1 class="m-0">{{ $t('header.title') }}</h1>
         
             <div class="btn-group text-success" role="group">

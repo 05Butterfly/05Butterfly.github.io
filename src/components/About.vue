@@ -1,5 +1,5 @@
 <template>
-    <header>
+    <!-- <header>
         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
             <ol class="carousel-indicators">
                 <li data-target="#carouselExampleIndicators" data-slide-to="0"></li>
@@ -54,7 +54,7 @@
                 <span class="sr-only">Next</span>
             </a>
         </div>
-    </header>
+    </header> -->
     <section class="container mt-5">
         <div class="row">
             <div class="col-md-4 text-center my-4 ">

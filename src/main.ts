@@ -4,7 +4,7 @@ import 'bootstrap-icons/font/bootstrap-icons.css'
 
 import { createApp } from 'vue'
 import App from './App.vue'
-import router from './router.js'
+import router from './router/index.js'
 
 import i18n from './i18n.ts'
 

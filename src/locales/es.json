@@ -66,14 +66,14 @@
     ],
 
     "work": {
-        "title": "Proyectos"
+        "title": "Proyectos destacados"
     },
 
-    "project-cards-button": {
-        "text": "Ver código fuente"
+    "card-button": {
+        "text": "Ver Código Fuente"
     },
 
-    "project-cards": [
+    "work-cards": [
         {
             "title": "Lumino",
             "tag": "Plataforma educativa diseñada para estudiantes y profesores",

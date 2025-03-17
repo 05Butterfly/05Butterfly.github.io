@@ -1,6 +1,6 @@
 <script setup>
     import { useI18n } from "vue-i18n";
-    import ProjectCard from "./WorkCard.vue";
+    import WorkCard from "./WorkCard.vue";
 
     const locale = useI18n();    
 </script>
@@ -12,8 +12,8 @@
 
     <section>
         <div class="row row-cols-4 m-3">
-            <div v-for="project in locale.getLocaleMessage(locale.locale.value)['project-cards']" class="col">
-                <ProjectCard :title="project.title" :tag="project.tag" :description="project.description" :url="project.url"/>
+            <div v-for="work in locale.getLocaleMessage(locale.locale.value)['work-cards']" class="col">
+                <WorkCard :title="work.title" :tag="work.tag" :description="work.description" :url="work.url"/>
             </div>
         </div>
     </section>

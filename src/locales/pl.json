@@ -70,10 +70,14 @@
     ],
 
     "work": {
-      "title": "Proyectos"
+      "title": "Wyróżnione projekty"
     },
 
-    "project-cards": [
+    "card-button": {
+        "text": "Zobacz źródło"
+    },
+
+    "work-cards": [
         {
             "title": "Lumino",
             "tag": "Platforma edukacyjna zaprojektowana dla studentów i nauczycieli",
