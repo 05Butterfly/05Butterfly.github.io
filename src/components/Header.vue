@@ -12,7 +12,7 @@ const changeLanguage = (lang: string) => {
     <header class="d-flex justify-content-between align-items-center bg-dark text-white p-3">
 
         <div class="d-flex">
-            <RouterLink class="btn btn-primary" to="/home">{{ $t('header.home') }}</RouterLink>
+            <RouterLink class="btn btn-primary" to="/">{{ $t('header.home') }}</RouterLink>
             <RouterLink class="btn btn-outline-primary mx-2" to="/projects">{{$t('header.projects')}}</RouterLink>
         </div>
 

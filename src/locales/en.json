@@ -18,49 +18,49 @@
 
     "skill-cards": [
         {
-            "logo": "/src/assets/imgs/python.png",
+            "logo": "/imgs/python.png",
             "name": "Python",
             "description": "I have been using it since the beginning of the web application development course. It is essential for programming logic and backend development.",
             "level": "3"
         },
         {
-            "logo": "/src/assets/imgs/bootstrap.png",
+            "logo": "/imgs/bootstrap.png",
             "name": "Bootstrap",
             "description": "We recently started using it to streamline web design with a modern and responsive approach.",
             "level": "3"
         },
         {
-            "logo": "/src/assets/imgs/html.png",
+            "logo": "/imgs/html.png",
             "name": "HTML",
             "description": "I have been using it since the start of the course to efficiently structure and develop web pages.",
             "level": "4"
         },
         {
-            "logo": "/src/assets/imgs/django.png",
+            "logo": "/imgs/django.png",
             "name": "Django",
             "description": "Although I started using it recently, I have already developed several dynamic web applications with this framework.",
             "level": "4"
         },
         {
-            "logo": "/src/assets/imgs/vue.png",
+            "logo": "/imgs/vue.png",
             "name": "Vue",
             "description": "I am learning this progressive framework for building interactive and scalable web applications.",
             "level": "3"
         },
         {
-            "logo": "/src/assets/imgs/javascript.png",
+            "logo": "/imgs/javascript.png",
             "name": "JavaScript",
             "description": "I am still exploring its potential, but I have already used it to add interactivity to web pages.",
             "level": "2"
         },
         {
-            "logo": "/src/assets/imgs/css.png",
+            "logo": "/imgs/css.png",
             "name": "CSS",
             "description": "Since the beginning of the course, I have used it to design and customize the appearance of web pages.",
             "level": "3"
         },
         {
-            "logo": "/src/assets/imgs/sql.png",
+            "logo": "/imgs/sql.png",
             "name": "SQL",
             "description": "I used it during the first year of the course to manage databases and perform efficient queries.",
             "level": "3"
@@ -115,98 +115,105 @@
 
     "project-cards": [
         {
-            "image": "/src/assets/imgs/projects/lumino.png",
+            "image": "/imgs/projects/lumino.png",
             "title": "Lumino",
             "tag": "Educational platform designed for students and teachers.",
             "description": "This project uses Django to generate HTML, manage users from the backend, and send emails, with decoupled tasks to improve performance.",
             "url": "https://github.com/Chugani05-JesusLugo2002/Lumino"
         },
         {
-            "image": "/src/assets/imgs/projects/javaspotify.png",
+            "image": "/imgs/projects/javaspotify.png",
             "title": "Java Spotify",
             "tag": "",
             "description": "",
             "url": "https://github.com/Chugani05/JavaSpotify"
         },
         {
-            "image": "/src/assets/imgs/projects/shoppingcart.png",
+            "image": "/imgs/projects/shoppingcart.png",
             "title": "Shopping Cart",
             "tag": "Online book shop.",
             "description": "This project uses Google Firebase for database management and user authentication, with a front-end developed in Vue.js and TypeScript.",
             "url": "https://github.com/Chugani05/ShoppingCart"
         },
         {
-            "image": "/src/assets/imgs/projects/gameside.png",
+            "image": "/imgs/projects/gameside.png",
             "title": "GameSide",
             "tag": "Videogame API.",
             "description": "This project involves creating a custom API without using Rest Framework, implementing custom serializers to handle requests and responses.",
             "url": "https://github.com/Chugani05-JesusLugo2002/GameSide"
         },
         {
-            "image": "/src/assets/imgs/projects/luminodocs.png",
+            "image": "/imgs/projects/luminodocs.png",
             "title": "Lumino Docs",
             "tag": "",
             "description": "",
             "url": "https://github.com/Chugani05-JesusLugo2002/LuminoDocs.git"
         },
         {
-            "image": "/src/assets/imgs/projects/jukabox.png",
+            "image": "/imgs/projects/jukabox.png",
             "title": "Jukabox",
             "tag": "Social media for music lovers.",
             "description": "This project is a full-stack app using Vue.js for the front-end and Django for the back-end, integrated with the MusicBrainz API to fetch and display music data like artists, albums, and tracks.",
             "url": "https://github.com/Chugani05-JesusLugo2002/Jukabox"
         },
         {
-            "image": "/src/assets/imgs/projects/pokemonshop.png",
+            "image": "/imgs/projects/pokemonshop.png",
             "title": "Pokemon Shop",
             "tag": "",
             "description": "",
             "url": "https://github.com/Chugani05/PokemonShop"
         },
         {
-            "image": "/src/assets/imgs/projects/battleship.png",
+            "image": "/imgs/projects/battleship.png",
             "title": "Battleship",
             "tag": "",
             "description": "",
             "url": "https://github.com/Chugani05/BattleShip"
         },
         {
-            "image": "/src/assets/imgs/projects/toytravel.png",
+            "image": "/imgs/projects/toytravel.png",
             "title": "Toy Travel",
             "tag": "",
             "description": "",
             "url": "https://github.com/mdiogc-JesusLugo2002-Chugani05/ToyTravel"
         },
         {
-            "image": "/src/assets/imgs/projects/fastcheese.png",
+            "image": "/imgs/projects/fastcheese.png",
             "title": "Fast & Cheese",
             "tag": "",
             "description": "",
             "url": "https://github.com/Chugani05/Fast-Cheesy"
         },
         {
-            "image": "/src/assets/imgs/projects/tribu.png",
+            "image": "/imgs/projects/tribu.png",
             "title": "Tribu",
             "tag": "",
             "description": "",
             "url": "https://github.com/Chugani05/Tribu"
         },
         {
-            "image": "/src/assets/imgs/projects/leagueoflegends.png",
+            "image": "/imgs/projects/leagueoflegends.png",
             "title": "League Of Legends",
             "tag": "",
             "description": "",
             "url": "https://github.com/Chugani05/LeagueOfLegends"
         },
         {
-            "image": "/src/assets/imgs/projects/pokemonlist.png",
+            "image": "/imgs/projects/pokemonlist.png",
             "title": "Pokemon List",
             "tag": "",
             "description": "",
             "url": "https://github.com/Chugani05/PokemonList"
         },
         {
-            "image": "/src/assets/imgs/projects/supertodo.png",
+            "image": "/imgs/projects/protrade.png",
+            "title": "ProTrade",
+            "tag": "",
+            "description": "",
+            "url": "https://github.com/Chugani05/ProTrade"
+        },
+        {
+            "image": "/imgs/projects/supertodo.png",
             "title": "SuperTodo",
             "tag": "",
             "description": "",

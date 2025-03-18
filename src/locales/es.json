@@ -16,49 +16,49 @@
 
     "skill-cards": [
         {
-            "logo": "/src/assets/imgs/python.png",
+            "logo": "/imgs/python.png",
             "name": "Python",
             "description": "Llevo utilizándolo desde el inicio del curso de desarrollo de aplicaciones web. Es fundamental para la lógica de programación y el desarrollo backend.",
             "level": "3"
         },
         {
-            "logo": "/src/assets/imgs/bootstrap.png",
+            "logo": "/imgs/bootstrap.png",
             "name": "Bootstrap",
             "description": "Recientemente comenzamos a utilizarlo para agilizar el diseño de páginas web con un enfoque moderno y responsivo.",
             "level": "3"
         },
         {
-            "logo": "/src/assets/imgs/html.png",
+            "logo": "/imgs/html.png",
             "name": "HTML",
             "description": "Desde el inicio del curso, lo he utilizado para estructurar y desarrollar páginas web de manera eficiente.",
             "level": "4"
         },
         {
-            "logo": "/src/assets/imgs/django.png",
+            "logo": "/imgs/django.png",
             "name": "Django",
             "description": "Aunque lo empecé a usar recientemente, ya he desarrollado varias aplicaciones web dinámicas con este framework.",
             "level": "4"
         },
         {
-            "logo": "/src/assets/imgs/vue.png",
+            "logo": "/imgs/vue.png",
             "name": "Vue",
             "description": "Estoy aprendiendo este framework progresivo para el desarrollo de aplicaciones web interactivas y escalables.",
             "level": "3"
         },
         {
-            "logo": "/src/assets/imgs/javascript.png",
+            "logo": "/imgs/javascript.png",
             "name": "JavaScript",
             "description": "Aún estoy explorando su potencial, pero ya lo he utilizado para agregar interactividad a páginas web.",
             "level": "2"
         },
         {
-            "logo": "/src/assets/imgs/css.png",
+            "logo": "/imgs/css.png",
             "name": "CSS",
             "description": "Desde el inicio del curso, lo he usado para diseñar y personalizar la apariencia de las páginas web.",
             "level": "3"
         },
         {
-            "logo": "/src/assets/imgs/sql.png",
+            "logo": "/imgs/sql.png",
             "name": "SQL",
             "description": "Lo utilicé durante el primer año del curso para gestionar bases de datos y realizar consultas eficientes.",
             "level": "3"

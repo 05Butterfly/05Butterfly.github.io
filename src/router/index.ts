@@ -5,8 +5,7 @@ import ProjectView from '../views/ProjectView.vue'
 import Error404View from '../views/Error404View.vue'
 
 const routes = [
-    { path: "/", redirect: "/home" },
-    { path: "/home", component: HomeView },
+    { path: "/", component: HomeView },
     { path: "/projects", component: ProjectView },
     { path: "/:pathMatch(.*)*", component: Error404View }
 ]
