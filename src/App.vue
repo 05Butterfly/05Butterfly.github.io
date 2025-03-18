@@ -4,8 +4,6 @@ import { RouterView } from 'vue-router'
 import Contact from './components/Contact.vue';
 import Footer from './components/Footer.vue';
 import Header from './components/Header.vue';
-
-import HomeView from './views/HomeView.vue';
 </script>
 
 <template>
@@ -13,7 +11,6 @@ import HomeView from './views/HomeView.vue';
 
   <main>
     <RouterView />
-    <HomeView />
   </main>
 
   <Footer>

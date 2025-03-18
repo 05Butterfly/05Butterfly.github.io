@@ -109,6 +109,10 @@
         "p3": "Beyond coding, I enjoy expressing my creativity through reading, baking, building Legos, painting, drawing, and photography. Whether it’s designing with colors and bricks, capturing moments with my camera, or crafting delicious treats, these hobbies allow me to relax and explore new creative outlets." 
     },
 
+    "project": {
+        "title": "Projects"
+    },
+
     "project-cards": [
         {
             "image": "/src/assets/imgs/projects/lumino.png",
@@ -118,11 +122,11 @@
             "url": "https://github.com/Chugani05-JesusLugo2002/Lumino"
         },
         {
-            "image": "/src/assets/imgs/projects/jukabox.png",
-            "title": "Jukabox",
-            "tag": "Social media for music lovers.",
-            "description": "This project is a full-stack app using Vue.js for the front-end and Django for the back-end, integrated with the MusicBrainz API to fetch and display music data like artists, albums, and tracks.",
-            "url": "https://github.com/Chugani05-JesusLugo2002/Jukabox"
+            "image": "/src/assets/imgs/projects/javaspotify.png",
+            "title": "Java Spotify",
+            "tag": "",
+            "description": "",
+            "url": "https://github.com/Chugani05/JavaSpotify"
         },
         {
             "image": "/src/assets/imgs/projects/shoppingcart.png",
@@ -146,18 +150,18 @@
             "url": "https://github.com/Chugani05-JesusLugo2002/LuminoDocs.git"
         },
         {
-            "image": "/src/assets/imgs/projects/javaspotify.png",
-            "title": "Java Spotify",
-            "tag": "",
-            "description": "",
-            "url": "https://github.com/Chugani05/JavaSpotify"
+            "image": "/src/assets/imgs/projects/jukabox.png",
+            "title": "Jukabox",
+            "tag": "Social media for music lovers.",
+            "description": "This project is a full-stack app using Vue.js for the front-end and Django for the back-end, integrated with the MusicBrainz API to fetch and display music data like artists, albums, and tracks.",
+            "url": "https://github.com/Chugani05-JesusLugo2002/Jukabox"
         },
         {
-            "image": "/src/assets/imgs/projects/toytravel.png",
-            "title": "Toy Travel",
+            "image": "/src/assets/imgs/projects/pokemonshop.png",
+            "title": "Pokemon Shop",
             "tag": "",
             "description": "",
-            "url": "https://github.com/mdiogc-JesusLugo2002-Chugani05/ToyTravel"
+            "url": "https://github.com/Chugani05/PokemonShop"
         },
         {
             "image": "/src/assets/imgs/projects/battleship.png",
@@ -167,11 +171,11 @@
             "url": "https://github.com/Chugani05/BattleShip"
         },
         {
-            "image": "/src/assets/imgs/projects/supertodo.png",
-            "title": "SuperTodo",
+            "image": "/src/assets/imgs/projects/toytravel.png",
+            "title": "Toy Travel",
             "tag": "",
             "description": "",
-            "url": "https://github.com/Chugani05/SuperTodo"
+            "url": "https://github.com/mdiogc-JesusLugo2002-Chugani05/ToyTravel"
         },
         {
             "image": "/src/assets/imgs/projects/fastcheese.png",
@@ -179,7 +183,38 @@
             "tag": "",
             "description": "",
             "url": "https://github.com/Chugani05/Fast-Cheesy"
+        },
+        {
+            "image": "/src/assets/imgs/projects/tribu.png",
+            "title": "Tribu",
+            "tag": "",
+            "description": "",
+            "url": "https://github.com/Chugani05/Tribu"
+        },
+        {
+            "image": "/src/assets/imgs/projects/leagueoflegends.png",
+            "title": "League Of Legends",
+            "tag": "",
+            "description": "",
+            "url": "https://github.com/Chugani05/LeagueOfLegends"
+        },
+        {
+            "image": "/src/assets/imgs/projects/pokemonlist.png",
+            "title": "Pokemon List",
+            "tag": "",
+            "description": "",
+            "url": "https://github.com/Chugani05/PokemonList"
+        },
+        {
+            "image": "/src/assets/imgs/projects/supertodo.png",
+            "title": "SuperTodo",
+            "tag": "",
+            "description": "",
+            "url": "https://github.com/Chugani05/SuperTodo"
         }
-        
-    ]
+    ],
+
+    "error": {
+        "title": "Error 404"
+    }
 }

@@ -17,7 +17,7 @@ const changeLanguage = (lang: string) => {
         </div>
 
 
-        <h1 class="m-0">{{ $t('header.title') }}</h1>
+        
         
             <div class="btn-group text-success" role="group">
                 <button
