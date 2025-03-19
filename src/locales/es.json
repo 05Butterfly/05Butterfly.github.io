@@ -105,5 +105,121 @@
         "p1": "¡Hola! Mi nombre es Rashi Chugani Narwani. Soy de origen indio y nací y crecí en Tenerife, España.",
         "p2": "Soy un apasionado del desarrollo web y actualmente estoy estudiando. Me encanta crear sitios web y aplicaciones atractivas y fáciles de usar, siempre con ganas de aprender las últimas tecnologías y mejores prácticas.",
         "p3": "Más allá de la programación, disfruto expresando mi creatividad a través de la lectura, la repostería, la construcción con LEGO, la pintura, el dibujo y la fotografía. Ya sea diseñando con colores y piezas, capturando momentos con mi cámara o preparando deliciosos postres, estos pasatiempos me permiten relajarme y explorar nuevas formas de expresión."
-    }    
+    },
+
+    "project": {
+        "title": "Projects"
+    },
+
+    "project-cards": [
+        {
+            "image": "/imgs/projects/lumino.png",
+            "title": "Lumino",
+            "tag": "Plataforma educativa diseñada para estudiantes y profesores",
+            "description": "Este proyecto usa Django para generar HTML, gestionar usuarios desde el back-end y enviar correos electrónicos, con tareas desacopladas para mejorar el rendimiento.",
+            "url": "https://github.com/Chugani05-JesusLugo2002/Lumino"
+        },
+        {
+            "image": "/imgs/projects/javaspotify.png",
+            "title": "Java Spotify",
+            "tag": "",
+            "description": "",
+            "url": "https://github.com/Chugani05/JavaSpotify"
+        },
+        {
+            "image": "/imgs/projects/shoppingcart.png",
+            "title": "Shopping Cart",
+            "tag": "Tienda de libros en línea.",
+            "description": "Este proyecto utiliza Google Firebase para la gestión de base de datos y autenticación de usuarios, con un front-end desarrollado en Vue.js y TypeScript.",
+            "url": "https://github.com/Chugani05/ShoppingCart"
+        },
+        {
+            "image": "/imgs/projects/gameside.png",
+            "title": "GameSide",
+            "tag": "API de videojuegos.",
+            "description": "Este proyecto consiste en la creación de una API personalizada sin utilizar Rest Framework, implementando serializadores propios para manejar las peticiones y respuestas.",
+            "url": "https://github.com/Chugani05-JesusLugo2002/GameSide"
+        },
+        {
+            "image": "/imgs/projects/luminodocs.png",
+            "title": "Lumino Docs",
+            "tag": "",
+            "description": "",
+            "url": "https://github.com/Chugani05-JesusLugo2002/LuminoDocs.git"
+        },
+        {
+            "image": "/imgs/projects/jukabox.png",
+            "title": "Jukabox",
+            "tag": "Redes sociales para amantes de la música.",
+            "description": "Este proyecto es una aplicación completa que utiliza Vue.js para el front-end y Django para el back-end, integrada con la API MusicBrainz para obtener y mostrar datos musicales como artistas, álbumes y pistas.",
+            "url": "https://github.com/Chugani05-JesusLugo2002/Jukabox"
+        },
+        {
+            "image": "/imgs/projects/pokemonshop.png",
+            "title": "Pokemon Shop",
+            "tag": "",
+            "description": "",
+            "url": "https://github.com/Chugani05/PokemonShop"
+        },
+        {
+            "image": "/imgs/projects/battleship.png",
+            "title": "Battleship",
+            "tag": "",
+            "description": "",
+            "url": "https://github.com/Chugani05/BattleShip"
+        },
+        {
+            "image": "/imgs/projects/toytravel.png",
+            "title": "Toy Travel",
+            "tag": "",
+            "description": "",
+            "url": "https://github.com/mdiogc-JesusLugo2002-Chugani05/ToyTravel"
+        },
+        {
+            "image": "/imgs/projects/fastcheese.png",
+            "title": "Fast & Cheese",
+            "tag": "",
+            "description": "",
+            "url": "https://github.com/Chugani05/Fast-Cheesy"
+        },
+        {
+            "image": "/imgs/projects/tribu.png",
+            "title": "Tribu",
+            "tag": "",
+            "description": "",
+            "url": "https://github.com/Chugani05/Tribu"
+        },
+        {
+            "image": "/imgs/projects/leagueoflegends.png",
+            "title": "League Of Legends",
+            "tag": "",
+            "description": "",
+            "url": "https://github.com/Chugani05/LeagueOfLegends"
+        },
+        {
+            "image": "/imgs/projects/pokemonlist.png",
+            "title": "Pokemon List",
+            "tag": "",
+            "description": "",
+            "url": "https://github.com/Chugani05/PokemonList"
+        },
+        {
+            "image": "/imgs/projects/protrade.png",
+            "title": "ProTrade",
+            "tag": "",
+            "description": "",
+            "url": "https://github.com/Chugani05/ProTrade"
+        },
+        {
+            "image": "/imgs/projects/supertodo.png",
+            "title": "SuperTodo",
+            "tag": "",
+            "description": "",
+            "url": "https://github.com/Chugani05/SuperTodo"
+        }
+    ],
+
+    "error": {
+        "title": "Error 404"
+    }   
 }
