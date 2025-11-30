@@ -15,9 +15,6 @@ const changeLanguage = (lang: string) => {
             <RouterLink class="btn btn-primary" to="/">{{ $t('header.home') }}</RouterLink>
             <RouterLink class="btn btn-outline-primary mx-2" to="/projects">{{$t('header.projects')}}</RouterLink>
         </div>
-
-
-        
         
             <div class="btn-group text-success" role="group">
                 <button
@@ -31,9 +28,6 @@ const changeLanguage = (lang: string) => {
                 <ul class="dropdown-menu">
                     <li class="dropdown-item" @click="changeLanguage('en')">
                         🇬🇧 {{ $t('header.english') }}
-                    </li>
-                    <li class="dropdown-item" @click="changeLanguage('pl')">
-                        🇵🇱 {{ $t('header.polish') }}
                     </li>
                     <li class="dropdown-item" @click="changeLanguage('es')">
                         🇪🇸 {{ $t('header.spanish') }}

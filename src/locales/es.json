@@ -1,9 +1,9 @@
 {
     "header": {
       "english": "Inglés",
-      "polish": "Polaco",
       "spanish": "Español",
-      "title": "Hola!! Soy Rashi Chugani."
+      "title": "Hola!! Soy Rashi Chugani.",
+      "projects": "Proyectos"
     },
 
     "footer": {
@@ -16,51 +16,106 @@
 
     "skill-cards": [
         {
-            "logo": "/imgs/python.png",
-            "name": "Python",
-            "description": "Llevo utilizándolo desde el inicio del curso de desarrollo de aplicaciones web. Es fundamental para la lógica de programación y el desarrollo backend.",
-            "level": "3"
-        },
-        {
-            "logo": "/imgs/bootstrap.png",
-            "name": "Bootstrap",
-            "description": "Recientemente comenzamos a utilizarlo para agilizar el diseño de páginas web con un enfoque moderno y responsivo.",
-            "level": "3"
-        },
-        {
-            "logo": "/imgs/html.png",
-            "name": "HTML",
-            "description": "Desde el inicio del curso, lo he utilizado para estructurar y desarrollar páginas web de manera eficiente.",
-            "level": "4"
-        },
-        {
-            "logo": "/imgs/django.png",
-            "name": "Django",
-            "description": "Aunque lo empecé a usar recientemente, ya he desarrollado varias aplicaciones web dinámicas con este framework.",
-            "level": "4"
-        },
-        {
-            "logo": "/imgs/vue.png",
-            "name": "Vue",
-            "description": "Estoy aprendiendo este framework progresivo para el desarrollo de aplicaciones web interactivas y escalables.",
-            "level": "3"
-        },
-        {
-            "logo": "/imgs/javascript.png",
-            "name": "JavaScript",
-            "description": "Aún estoy explorando su potencial, pero ya lo he utilizado para agregar interactividad a páginas web.",
+            "logo": "/imgs/skills/native.png",
+            "name": "React Native",
+            "description": "He utilizado este framework para desarrollar aplicaciones móviles multiplataforma con una arquitectura basada en componentes.",
             "level": "2"
         },
         {
-            "logo": "/imgs/css.png",
-            "name": "CSS",
-            "description": "Desde el inicio del curso, lo he usado para diseñar y personalizar la apariencia de las páginas web.",
+            "logo": "/imgs/skills/spring.png",
+            "name": "Spring Boot",
+            "description": "Estoy aprendiendo este framework para crear aplicaciones backend robustas con inyección de dependencias y una estructura modular.",
+            "level": "2"
+        },
+        {
+            "logo": "/imgs/skills/maven.png",
+            "name": "Maven",
+            "description": "Lo uso para gestionar dependencias y automatizar procesos de construcción en proyectos Java de manera eficiente.",
+            "level": "2"
+        },
+        {
+            "logo": "/imgs/skills/java.png",
+            "name": "Java",
+            "description": "He trabajado con este lenguaje orientado a objetos para crear aplicaciones estructuradas y reforzar conceptos de backend.",
+            "level": "2"
+        },
+        {
+            "logo": "/imgs/skills/php.png",
+            "name": "PHP",
+            "description": "He utilizado este lenguaje para desarrollar páginas web dinámicas y gestionar la lógica del lado del servidor.",
+            "level": "2"
+        },
+        {
+            "logo": "/imgs/skills/flutter.png",
+            "name": "Flutter",
+            "description": "He desarrollado interfaces móviles dinámicas utilizando su sistema basado en widgets y un enfoque declarativo.",
             "level": "3"
         },
         {
-            "logo": "/imgs/sql.png",
+    "logo": "/imgs/skills/dart.png",
+    "name": "Dart",
+    "description": "Estoy consolidando mis conocimientos en Dart mientras lo aplico en desarrollos con Flutter y prácticas de código limpio.",
+    "level": "2"
+},
+
+{
+    "logo": "/imgs/skills/node.png",
+    "name": "Node.js",
+    "description": "He trabajado con este entorno para ejecutar JavaScript del lado del servidor y construir servicios backend ligeros.",
+    "level": "2"
+},
+{
+    "logo": "/imgs/skills/bootstrap.png",
+    "name": "Bootstrap",
+    "description": "Lo utilizo para crear diseños web modernos y responsivos de forma rápida mediante su sistema de componentes y rejillas.",
+    "level": "3"
+},
+{
+    "logo": "/imgs/skills/django.png",
+    "name": "Django",
+    "description": "He desarrollado múltiples aplicaciones web dinámicas utilizando este framework, aprovechando su ORM y su arquitectura sólida.",
+    "level": "4"
+},
+{
+    "logo": "/imgs/skills/vue.png",
+    "name": "Vue",
+    "description": "Estoy aprendiendo este framework progresivo para construir aplicaciones web interactivas y escalables con un enfoque modular.",
+    "level": "3"
+},
+{
+    "logo": "/imgs/skills/typescript.png",
+    "name": "Typescript",
+    "description": "Lo utilizo para aportar tipado estático y mejorar la escalabilidad y mantenimiento de aplicaciones web modernas.",
+    "level": "3"
+},
+{
+    "logo": "/imgs/skills/javascript.png",
+    "name": "JavaScript",
+    "description": "Lo empleo para añadir interactividad y funcionalidad dinámica a las páginas web, así como para trabajar con frameworks modernos.",
+    "level": "2"
+},
+{
+    "logo": "/imgs/skills/css.png",
+    "name": "CSS",
+    "description": "Lo uso para diseñar, animar y personalizar la apariencia de interfaces web con estilos modernos y responsivos.",
+    "level": "3"
+},
+{
+    "logo": "/imgs/skills/html.png",
+    "name": "HTML",
+    "description": "Es la base de mis proyectos web, utilizándolo para estructurar contenido de forma clara y semántica.",
+    "level": "4"
+},
+{
+    "logo": "/imgs/skills/sql.png",
             "name": "SQL",
-            "description": "Lo utilicé durante el primer año del curso para gestionar bases de datos y realizar consultas eficientes.",
+            "description": "He trabajado con SQL para gestionar bases de datos relacionales y realizar consultas eficientes y estructuradas.",
+            "level": "3"
+        },
+        {
+            "logo": "/imgs/skills/python.png",
+            "name": "Python",
+            "description": "Lo utilizo desde el inicio de mi formación para desarrollar lógica de programación, automatizaciones y aplicaciones backend.",
             "level": "3"
         }
     ],
@@ -70,152 +125,166 @@
     },
 
     "card-button": {
-        "text": "Ver Código Fuente"
+        "sourceUrlText": "Código Fuente",
+        "webUrlText": "Página Web",
+        "docUrlText": "Documentación"
     },
 
-    "work-cards": [
-        {
-            "title": "Lumino",
-            "tag": "Plataforma educativa diseñada para estudiantes y profesores",
-            "description": "Este proyecto usa Django para generar HTML, gestionar usuarios desde el back-end y enviar correos electrónicos, con tareas desacopladas para mejorar el rendimiento.",
-            "url": "https://github.com/Chugani05-JesusLugo2002/Lumino"
-        },
-        {
-            "title": "Jukabox",
-            "tag": "Redes sociales para amantes de la música.",
-            "description": "Este proyecto es una aplicación completa que utiliza Vue.js para el front-end y Django para el back-end, integrada con la API MusicBrainz para obtener y mostrar datos musicales como artistas, álbumes y pistas.",
-            "url": "https://github.com/Chugani05-JesusLugo2002/Jukabox"
-        },
-        {
-            "title": "ShoppingCart",
-            "tag": "Tienda de libros en línea.",
-            "description": "Este proyecto utiliza Google Firebase para la gestión de base de datos y autenticación de usuarios, con un front-end desarrollado en Vue.js y TypeScript.",
-            "url": "https://github.com/Chugani05/ShoppingCart"
-        },
-        {
-            "title": "GameSide",
-            "tag": "API de videojuegos.",
-            "description": "Este proyecto consiste en la creación de una API personalizada sin utilizar Rest Framework, implementando serializadores propios para manejar las peticiones y respuestas.",
-            "url": "https://github.com/Chugani05-JesusLugo2002/GameSide"
-        }
-    ],
-
     "about": {
-        "tag": "Desarrollador Web y Estudiante",
+        "tag": "Desarrolladora Web y Estudiante",
         "p1": "¡Hola! Mi nombre es Rashi Chugani Narwani. Soy de origen indio y nací y crecí en Tenerife, España.",
         "p2": "Soy un apasionado del desarrollo web y actualmente estoy estudiando. Me encanta crear sitios web y aplicaciones atractivas y fáciles de usar, siempre con ganas de aprender las últimas tecnologías y mejores prácticas.",
         "p3": "Más allá de la programación, disfruto expresando mi creatividad a través de la lectura, la repostería, la construcción con LEGO, la pintura, el dibujo y la fotografía. Ya sea diseñando con colores y piezas, capturando momentos con mi cámara o preparando deliciosos postres, estos pasatiempos me permiten relajarme y explorar nuevas formas de expresión."
     },
 
     "project": {
-        "title": "Projects"
+        "title": "Proyectos"
     },
 
     "project-cards": [
+        {
+            "image": "/imgs/projects/hangman.png",
+            "title": "Hangman",
+            "tag": "Ahorcado clásico en PHP — sencillo, dinámico y jugable desde el navegador.",
+            "description": "Un proyecto ligero en PHP que recrea el clásico juego del Ahorcado directamente en el navegador. Utiliza sesiones para gestionar el estado del juego y ofrecer una experiencia interactiva sin necesidad de bases de datos externas.",
+            "sourceUrl": "https://github.com/Chugani05/hangman.git"
+        },
+        {
+            "image": "/imgs/projects/xs-and-os.png",
+            "title": "X's and O's",
+            "tag": "Tres en Raya moderno hecho con React Native y TypeScript — dos jugadores en un dispositivo.",
+            "description": "X's and O's es una aplicación móvil desarrollada en React Native y TypeScript que recrea el clásico Tres en Raya con una interfaz limpia, animaciones fluidas y una experiencia intuitiva para dos jugadores en un único dispositivo.",
+            "sourceUrl": "https://github.com/Chugani05/xs-and-os.git",
+            "webUrl": "https://chugani05.github.io/xs-and-os/"
+        },
+        
+        {
+            "image": "/imgs/projects/my-cv.png",
+            "title": "My CV",
+            "tag": "Currículum digital hecho con Flutter — limpio, adaptable y fácil de navegar.",
+            "description": "Un currículum digital personal elaborado con Flutter, diseñado para mostrar mi experiencia profesional, habilidades, trayectoria y datos de contacto dentro de una interfaz limpia y totalmente responsive.",
+            "sourceUrl": "https://github.com/Chugani05/my-cv.git",
+            "webUrl": "https://chugani05.github.io/my-cv/"
+        },
+        {
+            "image": "/imgs/projects/pierre-odoo.png",
+            "title": "Pierre's General Store Odoo",
+            "tag": "Proyecto de investigación y personalización en Odoo 17 inspirado en Stardew Valley.",
+            "description": "Un proyecto de estudio y personalización desarrollado con Odoo 17, basado en la temática de la Tienda de Pierre de Stardew Valley. Incluye un tema personalizado para el backend y documentación en línea creada con Vue para facilitar la instalación y exploración de módulos.",
+            "sourceUrl": "https://github.com/JVC0-JesusLugo2002-Chugani05/Pierres-General-Store-Oddo.git",
+            "docUrl": "https://jvc0-jesuslugo2002-chugani05.github.io/Pierres-General-Store-Oddo/"
+        },
         {
             "image": "/imgs/projects/lumino.png",
             "title": "Lumino",
             "tag": "Plataforma educativa diseñada para estudiantes y profesores",
             "description": "Este proyecto usa Django para generar HTML, gestionar usuarios desde el back-end y enviar correos electrónicos, con tareas desacopladas para mejorar el rendimiento.",
-            "url": "https://github.com/Chugani05-JesusLugo2002/Lumino"
-        },
-        {
-            "image": "/imgs/projects/javaspotify.png",
-            "title": "Java Spotify",
-            "tag": "",
-            "description": "",
-            "url": "https://github.com/Chugani05/JavaSpotify"
-        },
-        {
-            "image": "/imgs/projects/shoppingcart.png",
-            "title": "Shopping Cart",
-            "tag": "Tienda de libros en línea.",
-            "description": "Este proyecto utiliza Google Firebase para la gestión de base de datos y autenticación de usuarios, con un front-end desarrollado en Vue.js y TypeScript.",
-            "url": "https://github.com/Chugani05/ShoppingCart"
-        },
-        {
-            "image": "/imgs/projects/gameside.png",
-            "title": "GameSide",
-            "tag": "API de videojuegos.",
-            "description": "Este proyecto consiste en la creación de una API personalizada sin utilizar Rest Framework, implementando serializadores propios para manejar las peticiones y respuestas.",
-            "url": "https://github.com/Chugani05-JesusLugo2002/GameSide"
-        },
-        {
-            "image": "/imgs/projects/luminodocs.png",
-            "title": "Lumino Docs",
-            "tag": "",
-            "description": "",
-            "url": "https://github.com/Chugani05-JesusLugo2002/LuminoDocs.git"
+            "sourceUrl": "https://github.com/Chugani05-JesusLugo2002/Lumino",
+            "docUrl": "https://chugani05-jesuslugo2002.github.io/LuminoDocs/"
+
         },
         {
             "image": "/imgs/projects/jukabox.png",
             "title": "Jukabox",
             "tag": "Redes sociales para amantes de la música.",
             "description": "Este proyecto es una aplicación completa que utiliza Vue.js para el front-end y Django para el back-end, integrada con la API MusicBrainz para obtener y mostrar datos musicales como artistas, álbumes y pistas.",
-            "url": "https://github.com/Chugani05-JesusLugo2002/Jukabox"
+            "sourceUrl": "https://github.com/Chugani05-JesusLugo2002/Jukabox",
+            "docUrl": "https://chugani05-jesuslugo2002.github.io/JukaboxDocs/"
+        },
+        {
+            "image": "/imgs/projects/shoppingcart.png",
+            "title": "Shopping Cart",
+            "tag": "Tienda de libros en línea.",
+            "description": "Este proyecto utiliza Google Firebase para la gestión de base de datos y autenticación de usuarios, con un front-end desarrollado en Vue.js y TypeScript.",
+            "sourceUrl": "https://github.com/Chugani05/ShoppingCart"
         },
         {
             "image": "/imgs/projects/pokemonshop.png",
             "title": "Pokemon Shop",
-            "tag": "",
-            "description": "",
-            "url": "https://github.com/Chugani05/PokemonShop"
+            "tag": "Tienda Pokémon con Firebase — wishlist, carrito y perfiles de usuario.",
+            "description": "Una tienda temática de Pokémon creada con HTML, CSS, JavaScript y Firebase. Incluye lista de deseos, carrito de compras y perfiles personalizados para gestionar compras y mejorar la experiencia del usuario.",
+            "sourceUrl": "https://github.com/Chugani05/PokemonShop"
         },
         {
-            "image": "/imgs/projects/battleship.png",
-            "title": "Battleship",
-            "tag": "",
-            "description": "",
-            "url": "https://github.com/Chugani05/BattleShip"
+            "image": "/imgs/projects/gameside.png",
+            "title": "GameSide",
+            "tag": "API de videojuegos creada sin Django REST Framework.",
+            "description": "GameSide es una API personalizada hecha con Django sin utilizar Django REST Framework. Implementa serializadores y endpoints construidos desde cero para manejar solicitudes, respuestas y validaciones.",
+            "sourceUrl": "https://github.com/Chugani05-JesusLugo2002/GameSide"
         },
         {
-            "image": "/imgs/projects/toytravel.png",
-            "title": "Toy Travel",
-            "tag": "",
-            "description": "",
-            "url": "https://github.com/mdiogc-JesusLugo2002-Chugani05/ToyTravel"
+            "image": "/imgs/projects/luminodocs.png",
+            "title": "Lumino Docs",
+            "tag": "Plataforma de documentación para la app educativa Lumino.",
+            "description": "Lumino Docs ofrece documentación completa para Lumino, una plataforma web donde los profesores crean clases con un editor Markdown y gestionan calificaciones en un entorno digital compartido.",
+            "sourceUrl": "https://github.com/Chugani05-JesusLugo2002/LuminoDocs.git",
+            "webUrl": "https://chugani05-jesuslugo2002.github.io/LuminoDocs/"
         },
         {
             "image": "/imgs/projects/fastcheese.png",
             "title": "Fast & Cheese",
-            "tag": "",
-            "description": "",
-            "url": "https://github.com/Chugani05/Fast-Cheesy"
+            "tag": "Sitio web de restaurante hecho con HTML, CSS y Bootstrap.",
+            "description": "Un sitio web responsivo para el restaurante “Fast & Cheesy!!”, creado con HTML, CSS y Bootstrap. Incluye un menú con imágenes y precios, un formulario de reservas y un diseño oscuro con información de contacto, horarios y redes sociales.",
+            "sourceUrl": "https://github.com/Chugani05/Fast-Cheesy",
+            "webUrl": "https://chugani05.github.io/Fast-Cheesy/"
+        },
+        {
+            "image": "/imgs/projects/toytravel.png",
+            "title": "Toy Travel",
+            "tag": "Agencia de viajes para juguetes — divertida, interactiva y responsiva.",
+            "description": "Una página interactiva hecha con HTML y Bootstrap que presenta Toy Travel, una agencia de viajes ficticia para juguetes. Los usuarios pueden explorar destinos, paquetes temáticos y servicios únicos.",
+            "sourceUrl": "https://github.com/mdiogc-JesusLugo2002-Chugani05/ToyTravel",
+            "webUrl": "https://mdiogc-jesuslugo2002-chugani05.github.io/ToyTravel/"
+        },
+        {
+            "image": "/imgs/projects/javaspotify.png",
+            "title": "Java Spotify",
+            "tag": "Mini reproductor estilo Spotify hecho con HTML, CSS y JavaScript.",
+            "description": "Un sitio inspirado en Spotify que permite reproducir tres canciones al hacer clic sobre sus portadas. Desarrollado con HTML, CSS y JavaScript, ofrece una experiencia moderna, sencilla e intuitiva.",
+            "sourceUrl": "https://github.com/Chugani05/JavaSpotify",
+            "webUrl": "https://chugani05.github.io/JavaSpotify/"
         },
         {
             "image": "/imgs/projects/tribu.png",
             "title": "Tribu",
-            "tag": "",
-            "description": "",
-            "url": "https://github.com/Chugani05/Tribu"
+            "tag": "Red social para publicar ecos y olas — simple y expresiva.",
+            "description": "Tribu es una red social minimalista donde los usuarios pueden publicar ecos (posts), comentar con olas y mantener perfiles personalizados dentro de una interfaz limpia y sencilla.",
+            "sourceUrl": "https://github.com/Chugani05/Tribu"
         },
         {
             "image": "/imgs/projects/leagueoflegends.png",
             "title": "League Of Legends",
-            "tag": "",
-            "description": "",
-            "url": "https://github.com/Chugani05/LeagueOfLegends"
+            "tag": "Base de datos de League of Legends — campeones, habilidades y estadísticas.",
+            "description": "Una página interactiva creada con HTML, CSS y JavaScript que muestra todos los campeones de League of Legends. Permite explorar estadísticas, habilidades y detalles de cada personaje.",
+            "sourceUrl": "https://chugani05.github.io/league-of-legends/"
         },
         {
             "image": "/imgs/projects/pokemonlist.png",
             "title": "Pokemon List",
-            "tag": "",
-            "description": "",
-            "url": "https://github.com/Chugani05/PokemonList"
+            "tag": "Enciclopedia Pokémon hecha con Django — rápida, buscable y organizada.",
+            "description": "Pokémon List es una aplicación Django que permite consultar información detallada de cada Pokémon, incluyendo estadísticas, tipos y generación. Incluye herramientas de búsqueda y filtrado para una navegación fácil.",
+            "sourceUrl": "https://github.com/Chugani05/PokemonList"
         },
         {
             "image": "/imgs/projects/protrade.png",
             "title": "ProTrade",
-            "tag": "",
-            "description": "",
-            "url": "https://github.com/Chugani05/ProTrade"
+            "tag": "API en Django para gestionar fichajes del mercado de fútbol.",
+            "description": "ProTrade es una API desarrollada con Django para gestionar fichajes de jugadores en el mercado de transferencias. Ofrece endpoints estructurados para equipos, jugadores y negociaciones. Utiliza datos sintéticos generados con Baker y Faker para pruebas y simulación.",
+            "sourceUrl": "https://github.com/Chugani05/pro-trade"
         },
         {
             "image": "/imgs/projects/supertodo.png",
             "title": "SuperTodo",
-            "tag": "",
-            "description": "",
-            "url": "https://github.com/Chugani05/SuperTodo"
+            "tag": "Gestor de tareas con Django — crea, organiza y completa tus tareas.",
+            "description": "SuperTodo es una aplicación para gestionar tareas desarrollada con Django, Python y Bootstrap. Permite crear, editar y eliminar tareas, marcarlas como completadas y limpiar tareas finalizadas para mantener un flujo de trabajo organizado.",
+            "sourceUrl": "https://github.com/Chugani05/supertodo"
+        },
+        {
+            "image": "/imgs/projects/battleship.png",
+            "title": "Battleship",
+            "tag": "Juego de Batalla Naval en Python desde la terminal.",
+            "description": "Un juego de Batalla Naval en Python ejecutado en la terminal. El jugador ataca coordenadas en un tablero 10x10 generado aleatoriamente con barcos de distintos tamaños. El objetivo es hundir todas las naves combinando estrategia y precisión.",
+            "sourceUrl": "https://github.com/Chugani05/battleship"
         }
     ],
 

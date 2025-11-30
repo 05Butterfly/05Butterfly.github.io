@@ -13,7 +13,7 @@
     <section>
         <div class="row row-cols-3 m-3">
             <div v-for="project in locale.getLocaleMessage(locale.locale.value)['project-cards']" class="col">
-                <ProjectCard :image="project.image" :title="project.title" :tag="project.tag" :description="project.description" :url="project.url"/>
+                <ProjectCard :project="project"/>
             </div>
         </div>
     </section>
